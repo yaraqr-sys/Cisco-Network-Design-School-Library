@@ -1,4 +1,4 @@
-# Cisco Network Design – School Library
+# Enterprise Network Design & VLAN Implementation – School Library
 
 ## Project Overview
 Designed and implemented a school library network topology using Cisco Packet Tracer.
